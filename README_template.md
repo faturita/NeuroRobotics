@@ -42,7 +42,7 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Videos</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
@@ -85,16 +85,16 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-General info for this module.
+There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
-* [MakeBlock Orion HowTo](http://docs.makeblock.com/diy-platform/en/electronic-modules/main-control-boards/makeblock-orion.html)
-* [MakeBlock Libraries Repository](https://github.com/Makeblock-official/Makeblock-Libraries)
-* [Wiki for NUS University for mBot](https://wiki.nus.edu.sg/display/MBOT/mBot+using+Arduino+IDE)
-* [MakeBlock Guide to program mBot with Arduino](https://support.makeblock.com/hc/en-us/articles/4419572961943-Program-mBot-in-Arduino-IDE)
-* [Orion Drivers](https://www.wch-ic.com/downloads/CH341SER_MAC_ZIP.html)
+* [MakeBlock Orion HowTo][orion-howto](http://docs.makeblock.com/diy-platform/en/electronic-modules/main-control-boards/makeblock-orion.html)
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should implement DRY principles to the rest of your life :smile:
 
-This is all you need to start working on this.
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+
+Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
