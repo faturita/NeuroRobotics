@@ -88,7 +88,7 @@
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
-* [![MakeBlock Orion HowTo][orion-howto]](http://docs.makeblock.com/diy-platform/en/electronic-modules/main-control-boards/makeblock-orion.html)
+* [MakeBlock Orion HowTo][orion-howto](http://docs.makeblock.com/diy-platform/en/electronic-modules/main-control-boards/makeblock-orion.html)
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should implement DRY principles to the rest of your life :smile:
 
